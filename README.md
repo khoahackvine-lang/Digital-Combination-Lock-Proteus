@@ -3,7 +3,6 @@
 [![Proteus](https://img.shields.io/badge/Simulation-Proteus%208%20Professional-blue.svg)](https://www.labcenter.com/)
 [![Logic](https://img.shields.io/badge/Architecture-TTL%2074LS%20Series%20%7C%20Logic%20Gates-brightgreen.svg)](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic)
 [![Course](https://img.shields.io/badge/Course-Digital%20Logic%20Circuit-orange.svg)](https://dut.udn.vn/)
-[![Faculty](https://img.shields.io/badge/Faculty-FAST%20%7C%20DUT-red.svg)](https://fast.dut.udn.vn/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A discrete digital logic circuit project implementing an electronic **2-Digit Digital Combination Lock** simulated in **Proteus Design Suite**. The circuit is built entirely from foundational combinational and sequential digital logic components—including decimal-to-BCD encoders, dual quad D flip-flops (74LS175), a JK flip-flop (7476) write steering unit, password memory registers, bitwise comparators, and BCD-to-7-segment decoders—without any microcontrollers or firmware.
