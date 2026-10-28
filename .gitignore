@@ -1,0 +1,11 @@
+# Proteus design suite backups & temporary files
+*.pdsbak
+*.workspace
+*.dmp
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
